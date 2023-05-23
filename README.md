@@ -13,7 +13,7 @@
 
 My idea was to create a chatbot that could narrate personalized horror stories, using the information provided by users. Spooky would tell the stories from a third-person perspective and be able to adapt the plot and details to make them relevant and relatable to the user's situation.
 
-Users could request a specific story in a particular scenario or simply engage in an informal conversation with the chatbot, and Spooky would rescue 
+Users could request a specific story in a particular scenario or simply engage in an informal conversation with the chatbot, and Spooky would narrate a story with the elements he recognize in the conversation.
 
 ## Data Collection
 
